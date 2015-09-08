@@ -1,13 +1,11 @@
-Create-a-RESTful-Services-API-using-PHP-Mysql-and-SlimFramework | Ciphertrick
+Rating API
 =======
 
-Create RESTful api using PHP, Mysql and Slim Framework.
+An API for rating things built with PHP and the Slim framework.
+http://www.slimframework.com/
 
-Added following Feature and Functionality,  
-1) Added login page with functionality of API call   
-2) Required field validation   
-3) Error codes  
 
-See Tutorial here - http://code.ciphertrick.com/2015/01/01/create-a-restful-api-using-php-my-sql-and-slim-framework/
-
-Demo - http://code.ciphertrick.com/demo/phpapi/
+This API can: 
+1) Create new items of things to be rated.
+2) Add additional ratings to the item. 
+3) Get any rating from the database provided the ID
